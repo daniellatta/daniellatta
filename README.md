@@ -21,11 +21,11 @@
 
 ## Colaboración
 
-- 👯 Siempre estoy abierto/a a colaborar en proyectos interesantes que impliquen desafíos y conceptos llamativos. ¡No dudes en contactarme si tienes una idea emocionante!
+- 👯 Siempre estoy abierto a colaborar en proyectos interesantes que impliquen desafíos y conceptos llamativos. ¡No dudes en contactarme si tienes una idea emocionante!
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, no dudes en contactarme:
+Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, aquí puedes encontrarme:
 
 
 
@@ -38,4 +38,4 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, no dudes e
   </a>
 </div>
 
-¡Estoy emocionado/a de compartir mis proyectos contigo y colaborar en futuros desafíos! Siéntete libre de explorar mi trabajo y ¡no dudes en contactarme!
+¡Estoy emocionado/a de compartir mis proyectos contigo y colaborar en futuros desafíos! Siéntete libre de explorar mi trabajo.
